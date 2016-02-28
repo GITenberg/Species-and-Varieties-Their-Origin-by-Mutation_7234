@@ -1,0 +1,41 @@
+_repo: Species-and-Varieties-Their-Origin-by-Mutation_7234
+contributor:
+  creator:
+    editor:
+      agent_name: MacDougal, Daniel Trembly
+      alias: MacDougal, D. T. (Daniel Trembly)
+      birthdate: 1865
+      deathdate: 1958
+      gutenberg_agent_id: '41001'
+      url: http://www.gutenberg.org/2009/agents/41001
+creator:
+  author:
+    agent_name: Vries, Hugo de
+    aliases:
+    - DeVries, Hugo
+    - De Vries, Hugo
+    birthdate: 1848
+    deathdate: 1935
+    gutenberg_agent_id: '2388'
+    url: http://www.gutenberg.org/2009/agents/2388
+    wikipedia: http://en.wikipedia.org/wiki/Hugo_de_Vries
+description: ''
+gutenberg_bookshelf: Biology
+gutenberg_issued: '2005-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7234'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Evolution (Biology)'
+- !lcsh 'Plants -- Evolution'
+- !lcsh 'Plant mutation'
+- !lcsh 'Plant hybridization'
+- !lcc 'QK'
+- !lcsh 'Plants -- Variation'
+- !lcc 'QH'
+title: Species and Varieties, Their Origin by Mutation
+url: http://www.gutenberg.org/ebooks/7234
